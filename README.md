@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavindu Hansaka</h1>
+<h1 align="center">Hi 👋, I'm kavindu hansaka</h1>
 <h3 align="center">A Student in IJSE , Intrest In UI/UX and Front End Developing ...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k4vi12&label=Profile%20views&color=0e75b6&style=flat" alt="k4vi12" /> </p>
@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k4vi12" alt="k4vi12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kavinduhansak15" target="blank"><img src="https://img.shields.io/twitter/follow/kavinduhansak15?logo=twitter&style=for-the-badge" alt="kavinduhansak15" /></a> </p>
+
+- 📫 How to reach me **kavinduhansaka755@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,10 +18,10 @@
 <a href="https://twitter.com/kavinduhansak15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavinduhansak15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kavindu hansaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu hansaka" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21820415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21820415" height="30" width="40" /></a>
-<a href="https://fb.com/hansaka kavindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hansaka kavindu" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/hansaka.kavindu.96?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hansaka.kavindu.96?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/_k.avi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_k.avi__" height="30" width="40" /></a>
 <a href="https://medium.com/@kavinduhansaka755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kavinduhansaka755" height="30" width="40" /></a>
-<a href="https://discord.gg/K4VI#2764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K4VI#2764" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/PRT6AT2qaT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PRT6AT2qaT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
