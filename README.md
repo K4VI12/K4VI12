@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 
-<h1 align="center">Hi 👋, I'm kavindu hansaka</h1>
+<h1 align="center">Hi 🫶, I'm Kavindu Hansaka</h1>
 <h3 align="center">A Student in IJSE , Intrest In Frontend Developing 🙌</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
