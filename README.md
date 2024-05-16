@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kavinduhansak15" target="blank"><img src="https://img.shields.io/twitter/follow/kavinduhansak15?logo=twitter&style=for-the-badge" alt="kavinduhansak15" /></a> </p>
 
-- 🌱 I’m currently learning **Java,HTML,CSS,javascript,Spring**
+- 🌱 I’m currently learning **SPRING,REACT,REACT NATIVE,MongoDB,TypeScript**
 
 - 📫 How to reach me **kavinduhansaka755@gmail.com**
 
